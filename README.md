@@ -76,13 +76,6 @@ This script runs 5 agents concurrently using `gemini-3.1-flash-lite`:
 python main.py
 ```
 
-### Run the Beginner step-by-step Demo
-This script splits the workflow into two milestones (a single-agent run vs. a two-agent parallel run) to demonstrate how the framework functions under the hood:
-```powershell
-python step_by_step_demo.py
-```
-
----
 
 ## Key Highlights & Design Lessons
 
